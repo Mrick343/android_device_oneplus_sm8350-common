@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 The Android Open Source Project
+                   2023 BananaDroid
+-->
+
+<resources>
+
+    <!-- Boost Framework -->
+    <bool name="config_supportsBoostFramework">true</bool>
+
+</resources>
