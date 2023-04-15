@@ -11,4 +11,7 @@
     <!-- Dolby Atmos -->
     <string name="config_dolbyAtmosPackage" translatable="false">com.dolby.daxappui/com.dolby.daxappui.MainActivity</string>
 
+    <!-- Whether Screen Off FOD Working for this Device -->
+    <bool name="config_screenOffFodWorking">true</bool>
+
 </resources>
